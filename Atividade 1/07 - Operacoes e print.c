@@ -4,22 +4,18 @@
 
 
 int main(int argc, char *argv[]) {
-	int op, num1, num2;
+	int num1, num2;
 	
 	printf("Digite os numeros: ");
 	scanf("%d %d", &num1, &num2);
 	
-	op = num1 + num2 ;
-	printf("Soma dos numeros: %d \n", op);
+	printf("Soma dos numeros: %d \n", num1 + num2);
 	
-	op = num1 - num2 ;
-	printf("Subtracao dos numeros: %d \n", op);
+	printf("Subtracao dos numeros: %d \n", num1 - num2);
 	
-	op = num1 * num2 ;
-	printf("Multiplicacao dos numeros: %d \n", op);
+	printf("Multiplicacao dos numeros: %d \n", num1 * num2);
 	
-	op = num1 / num2 ;
-	printf("Divisao dos numeros: %d \n", op);
+	printf("Divisao dos numeros: %d \n", num1 / num2);
 	
 	system("pause");
 	return 0;
