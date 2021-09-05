@@ -3,7 +3,7 @@
 #include <math.h>
 
 
-int main(int argc, char *argv[]) {
+int main() {
 	float a, b, h;
 	
 	printf("Digite as dimensoes do terreno em metros: \n");
