@@ -3,7 +3,7 @@
 #include <math.h>
 
 
-int main(int argc, char *argv[]) {
+int main() {
 	float pi, raio, volume, area;
 	pi = 3.14;
 	
