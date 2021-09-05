@@ -3,7 +3,7 @@
 #include <math.h>
 
 
-int main(int argc, char *argv[]) {
+int main() {
 	float a, b, h;
 	
 	printf("Digite a medida da base e altura do triangulo, respectivamente : \n");
