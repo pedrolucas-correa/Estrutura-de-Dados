@@ -3,7 +3,7 @@
 #include <math.h>
 
 
-int main(int argc, char *argv[]) {
+int main() {
 	float x, y, z, total;
 	printf("Digite os numeros: ");
 	scanf("%f %f %f", &x, &y, &z);
