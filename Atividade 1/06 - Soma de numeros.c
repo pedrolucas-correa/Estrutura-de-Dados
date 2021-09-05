@@ -3,7 +3,7 @@
 #include <math.h>
 
 
-int main(int argc, char *argv[]) {
+int main() {
 	float soma, num1, num2;
 	printf("Digite os numeros: ");
 	scanf("%f %f", &num1, &num2);
