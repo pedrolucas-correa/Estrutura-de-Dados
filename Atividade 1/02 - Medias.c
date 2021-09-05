@@ -3,7 +3,7 @@
 #include <math.h>
 
 
-int main(int argc, char *argv[]) {
+int main() {
 	float media, n1, n2, n3;
 	printf("Digite as notas do aluno (N1, N2, N3): \n");
 	scanf("%f  %f  %f", &n1, &n2, &n3);
