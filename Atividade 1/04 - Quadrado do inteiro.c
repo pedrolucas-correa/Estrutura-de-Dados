@@ -3,7 +3,7 @@
 #include <math.h>
 
 
-int main(int argc, char *argv[]) {
+int main() {
 	int numero;
 	printf("Digite um numero inteiro: ");
 	scanf("%d", &numero);
