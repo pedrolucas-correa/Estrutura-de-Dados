@@ -1,0 +1,1 @@
+O programa funciona corretamente. O printf imprime na tela a mensagem entre aspas e o scanf recebe um valor (numero ou letra) e atribui em uma váriavel.
