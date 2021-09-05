@@ -3,7 +3,7 @@
 #include <math.h>
 
 
-int main(int argc, char *argv[]) {
+int main() {
 	int num1, num2;
 	
 	printf("Digite os numeros: ");
