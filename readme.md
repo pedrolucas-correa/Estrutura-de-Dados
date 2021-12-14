@@ -1,5 +1,4 @@
-Disciplina: Estrutura de dados
-Faculdade: IES
+Faculdade: IES || Disciplina: Estrutura de dados
 
 Lista de exercícios em C.
 
